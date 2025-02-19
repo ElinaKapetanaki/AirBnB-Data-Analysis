@@ -23,12 +23,7 @@ This project analyzes Airbnb's impact across 13 major European cities, focusing 
 ## 🗺️ Interactive Features
 - **Dropdown-Based City Selection** – View insights for each city.
 - **Room Type & Listing Distribution** – Understand Airbnb's market segmentation.
-
-## 📈 Insights & Findings
-- Cities with high Airbnb penetration show **rising housing concerns**.
-- Neighborhood-level data reveals **over-tourism hotspots**.
-- Cross-referencing with EU reports highlights **policy gaps and regulatory challenges**.
-
+  
 ### 🔖 Acknowledgments
 Special thanks to **Inside Airbnb**, **QGIS community**, and **EU open data initiatives** for making this research possible.
 
